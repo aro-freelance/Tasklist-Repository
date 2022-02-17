@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="icon_red">#DF003D</color>
+
+
+    <color name="royal_blue">#2a57a1</color>
+    <color name="dark_royal_blue">#152b51</color>
+    <color name="light_royal_blue">#95abd0</color>
+
+    <color name="green">#2aa139</color>
+    <color name="dark_green">#15511c</color>
+    <color name="light_green">#cae8ce</color>
+
+    <color name="rust">#a1382a</color>
+    <color name="dark_rust">#65231a</color>
+    <color name="light_rust">#c4837a</color>
+
+
+    <color name="royal_purple">#742aa1</color>
+    <color name="dark_royal_purple">#481a65</color>
+    <color name="light_royal_purple">#ba95d0</color>
+
+</resources>
